@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const GOOGLE_API_KEY = "AIzaSyAzmPl6gvqsdvMKs6qHfc8ryGxLBq_qci4";
+const GOOGLE_API_KEY = "GOOGLE_API_KEY";
 
 const restaurants = JSON.parse(
   fs.readFileSync("./restaurants.json", "utf-8")
