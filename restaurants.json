@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Pizza 4P’s",
+    "category": "Pizza",
+    "area": "Indiranagar / Multiple",
+    "notes": "Famous for house-made cheese pizzas",
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  {
+    "name": "Beige – Bakehouse & Kitchen",
+    "category": "Pizza / All-Day Dining",
+    "area": "Indiranagar",
+    "notes": "Artisan pizzas and vegetarian options",
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  {
+    "name": "Helen’s Pizza",
+    "category": "Pizza",
+    "area": "Koramangala / Multiple",
+    "notes": "Local favorite casual pizzeria",
+    "website": "https://widget.reservego.co/reserveOutlets/67851ddc986ea4e2a295c235?source=4",
+    "phone": "080 4736 1112",
+    "email": null
+  },
+  {
+    "name": "Toscano",
+    "category": "Italian / Pizza",
+    "area": "Multiple",
+    "notes": "Premium Italian dining",
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  {
+    "name": "The Pizza Bakery",
+    "category": "Pizza",
+    "area": "Indiranagar / Koramangala",
+    "notes": "Wood-fired Neapolitan pizzas",
+    "website": "https://thepizzabakery.in/",
+    "phone": "080 4748 8477",
+    "email": null
+  },
+  {
+    "name": "Brik Oven",
+    "category": "Pizza",
+    "area": "Indiranagar",
+    "notes": "Authentic wood-fired pizzas",
+    "website": "https://www.brikoven.com/",
+    "phone": "080 4204 2111",
+    "email": "user@domain.com"
+  },
+  {
+    "name": "Little Italy",
+    "category": "Italian / Vegetarian",
+    "area": "Multiple",
+    "notes": "Pure vegetarian Italian",
+    "website": "http://www.littleitaly.in/",
+    "phone": "078299 95000",
+    "email": "marketing@littleitaly.in"
+  },
+  {
+    "name": "Toit Brewpub",
+    "category": "Brewery",
+    "area": "Indiranagar",
+    "notes": "Legendary Bangalore brewery",
+    "website": "https://toit.in/restaurant/toit-bangalore/",
+    "phone": "090197 13388",
+    "email": "toitblr@toit.in"
+  },
+  {
+    "name": "Byg Brewski Brewing Company",
+    "category": "Brewery",
+    "area": "Hennur / Sarjapur",
+    "notes": "Large rooftop brewery",
+    "website": "http://www.bygbrewski.com/",
+    "phone": "080 4680 9351",
+    "email": null
+  },
+  {
+    "name": "BLR Brewing Co.",
+    "category": "Brewery",
+    "area": "Multiple",
+    "notes": "Popular craft brewery",
+    "website": "http://www.blrbrewing.com/",
+    "phone": "080 4716 2222",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+  },
+  {
+    "name": "Ironhill Brewery",
+    "category": "Brewery",
+    "area": "Whitefield",
+    "notes": "Large-scale brewpub",
+    "website": "https://ironhillindia.com/bengaluru/",
+    "phone": "080 6929 9999",
+    "email": "bengaluru@ironhill.in"
+  },
+  {
+    "name": "The Bier Library",
+    "category": "Brewery",
+    "area": "Koramangala",
+    "notes": "Craft beer + food",
+    "website": "https://thebierlibrary.in/",
+    "phone": "091081 80000",
+    "email": "connect@frothytales.com"
+  },
+  {
+    "name": "Windmills Craftworks",
+    "category": "Brewery / Jazz Venue",
+    "area": "Whitefield",
+    "notes": "Jazz + craft beer experience",
+    "website": "https://windmills-india.com/",
+    "phone": "078997 40309",
+    "email": null
+  },
+  {
+    "name": "Prost Brewpub",
+    "category": "Brewery",
+    "area": "Koramangala",
+    "notes": "German-style brewery",
+    "website": "http://www.prost.in/",
+    "phone": "091009 21161",
+    "email": null
+  },
+  {
+    "name": "SUKA Nusa",
+    "category": "Brewery / Event Space",
+    "area": "Bangalore",
+    "notes": "Large themed brewery venue",
+    "website": "https://www.nusabrewvilla.com/",
+    "phone": "099165 55499",
+    "email": "src.rickcontrol@gmail.com"
+  },
+  {
+    "name": "Tropika",
+    "category": "Brewery / Lounge",
+    "area": "Bangalore",
+    "notes": "Tropical-themed dining",
+    "website": "https://tropikabrewing.com/",
+    "phone": "080 6591 2627",
+    "email": null
+  },
+  {
+    "name": "Vidyarthi Bhavan",
+    "category": "Vegetarian",
+    "area": "Basavanagudi",
+    "notes": "Iconic dosa place",
+    "website": "http://www.vidyarthibhavan.in/",
+    "phone": "080 2667 7588",
+    "email": null
+  },
+  {
+    "name": "Sattvam",
+    "category": "Vegetarian",
+    "area": "Multiple",
+    "notes": "Premium vegetarian buffet",
+    "website": "https://www.sattvam.com/",
+    "phone": "078130 02550",
+    "email": null
+  },
+  {
+    "name": "Taaza Thindi",
+    "category": "Vegetarian",
+    "area": "Jayanagar",
+    "notes": "Affordable South Indian breakfast",
+    "website": null,
+    "phone": "080 3120 2860",
+    "email": null
+  },
+  {
+    "name": "Imli Cafe",
+    "category": "Vegetarian",
+    "area": "Indiranagar",
+    "notes": "Modern vegetarian Indian",
+    "website": null,
+    "phone": "084949 00354",
+    "email": null
+  },
+  {
+    "name": "The Higher Taste (ISKCON)",
+    "category": "Vegetarian",
+    "area": "Rajajinagar",
+    "notes": "Spiritual vegetarian dining",
+    "website": "http://iskconhighertaste.com/",
+    "phone": "080 2357 5333",
+    "email": "manager.htr@hkm-group.org"
+  }
+]
